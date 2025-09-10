@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'https://fitness-planner-backend-production.up.railway.app',
+  apiBaseUrl: 'https://fitnessai-production-2af0.up.railway.app',
   mockApi: false
 };
